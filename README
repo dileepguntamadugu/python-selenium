@@ -1,0 +1,2 @@
+https://pytest-html.readthedocs.io/en/latest/
+pytest -q test_selenium.py --html=report.html --self-contained-html
